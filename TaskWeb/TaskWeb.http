@@ -1,0 +1,6 @@
+@TaskWeb_HostAddress = http://localhost:5083
+
+GET {{TaskWeb_HostAddress}}/Tarefa/
+Accept: application/json
+
+###
